@@ -1,7 +1,7 @@
 {
 	"id": "4af62aac-6f47-4164-8d4d-a230aa4f06fe",
-	"title": "document department digital",
-	"description": "document digital processes for the sound department",
+	"title": "document department digital infrastructure",
+	"description": "document digital processes for the sound department and for the company.  this includes the following: samba management, snipe-it management, backup management in particular mariadb for snipe-it. github documentation, computer documentation and how to implement fresh installs with brewfile.  network documentation and maintenance of equipment and racks as well as rack schematics. bitwarden passes and how to manage apple accounts.  electronics builds and firmware programming.   ",
 	"priority": "medium",
 	"labels": [
 		"digital management"
