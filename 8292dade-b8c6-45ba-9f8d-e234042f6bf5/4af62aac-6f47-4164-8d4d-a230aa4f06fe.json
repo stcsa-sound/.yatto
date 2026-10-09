@@ -1,0 +1,15 @@
+{
+	"id": "4af62aac-6f47-4164-8d4d-a230aa4f06fe",
+	"title": "document department digital",
+	"description": "document digital processes for the sound department",
+	"priority": "medium",
+	"labels": [
+		"digital management"
+	],
+	"author": "stcsa-sound <andrew@statetheatrecompany.com.au>",
+	"assignee": "stcsa-sound <andrew@statetheatrecompany.com.au>",
+	"in_progress": false,
+	"completed": false,
+	"archived": false,
+	"due_date": "2027-12-31T00:00:00+10:30"
+}
