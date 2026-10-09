@@ -1,0 +1,16 @@
+{
+	"id": "4f7eda83-649f-43eb-b097-e873306802f8",
+	"title": "turn qlabcreate into an application",
+	"description": "turn the qlabcreate python project in a fully fledged application and look into apple signing for distribution",
+	"priority": "low",
+	"labels": [
+		"qlab",
+		"app development"
+	],
+	"author": "stcsa-sound <andrew@statetheatrecompany.com.au>",
+	"assignee": "stcsa-sound <andrew@statetheatrecompany.com.au>",
+	"in_progress": false,
+	"completed": false,
+	"archived": false,
+	"due_date": "2026-12-31T16:00:00+10:30"
+}
