@@ -1,0 +1,15 @@
+{
+	"id": "21bc6c79-778f-479b-bb42-43c08f872665",
+	"title": "the heartbreak choir",
+	"description": "voice over recording with Jim.",
+	"priority": "high",
+	"labels": [
+		"recording"
+	],
+	"author": "stcsa-sound <andrew@statetheatrecompany.com.au>",
+	"assignee": "stcsa-sound <andrew@statetheatrecompany.com.au>",
+	"in_progress": false,
+	"completed": false,
+	"archived": false,
+	"due_date": "2026-10-12T11:00:00+10:30"
+}
