@@ -1,11 +1,11 @@
 {
 	"id": "7f5395f7-9537-4a77-abd5-904335529c8d",
 	"title": "update qlab scripts",
-	"description": "update qlab scripts in python project qlabcreate.  make these so they transfer easily between machines. also update the qlab-template file to reference these scripts from the ~/Desktop/show-dir",
+	"description": "update qlab scripts in python project qlabcreate.  make these so they transfer easily between machines. also update the qlab-template file to reference these scripts from the /Usr/local/bin",
 	"priority": "low",
 	"labels": [
-		"qlab",
-		"app development"
+		"app development",
+		"qlab"
 	],
 	"author": "stcsa-sound <andrew@statetheatrecompany.com.au>",
 	"assignee": "stcsa-sound <andrew@statetheatrecompany.com.au>",
