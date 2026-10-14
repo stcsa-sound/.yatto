@@ -8,8 +8,8 @@
 	],
 	"author": "stcsa-sound <andrew@statetheatrecompany.com.au>",
 	"assignee": "stcsa-sound <andrew@statetheatrecompany.com.au>",
-	"in_progress": true,
-	"completed": false,
+	"in_progress": false,
+	"completed": true,
 	"archived": false,
 	"due_date": "2026-10-12T11:00:00+10:30"
 }
