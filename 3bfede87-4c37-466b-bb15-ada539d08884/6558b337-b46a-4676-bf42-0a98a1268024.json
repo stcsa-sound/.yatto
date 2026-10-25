@@ -1,0 +1,15 @@
+{
+	"id": "6558b337-b46a-4676-bf42-0a98a1268024",
+	"title": "convert digico file",
+	"description": "convert q225 file to a q112 file",
+	"priority": "high",
+	"labels": [
+		"show jobs"
+	],
+	"author": "stcsa-sound <andrew@statetheatrecompany.com.au>",
+	"assignee": "stcsa-sound <andrew@statetheatrecompany.com.au>",
+	"in_progress": false,
+	"completed": false,
+	"archived": false,
+	"due_date": "2026-10-30T00:00:00+10:30"
+}
