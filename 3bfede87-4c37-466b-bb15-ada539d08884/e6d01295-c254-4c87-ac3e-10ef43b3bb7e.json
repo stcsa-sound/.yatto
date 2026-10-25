@@ -1,0 +1,15 @@
+{
+	"id": "e6d01295-c254-4c87-ac3e-10ef43b3bb7e",
+	"title": "system drawing",
+	"description": "finish system drawing",
+	"priority": "high",
+	"labels": [
+		"show jobs"
+	],
+	"author": "stcsa-sound <andrew@statetheatrecompany.com.au>",
+	"assignee": "stcsa-sound <andrew@statetheatrecompany.com.au>",
+	"in_progress": false,
+	"completed": false,
+	"archived": false,
+	"due_date": "2026-10-30T00:00:00+10:30"
+}
