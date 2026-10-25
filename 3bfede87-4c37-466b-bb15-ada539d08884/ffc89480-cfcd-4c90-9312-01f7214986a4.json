@@ -1,0 +1,15 @@
+{
+	"id": "ffc89480-cfcd-4c90-9312-01f7214986a4",
+	"title": "farady pouches",
+	"description": "get wardrobe to make faraday puches for amplifiers",
+	"priority": "medium",
+	"labels": [
+		"show jobs"
+	],
+	"author": "stcsa-sound <andrew@statetheatrecompany.com.au>",
+	"assignee": "stcsa-sound <andrew@statetheatrecompany.com.au>",
+	"in_progress": false,
+	"completed": false,
+	"archived": false,
+	"due_date": "2026-10-30T00:00:00+10:30"
+}
